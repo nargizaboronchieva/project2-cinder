@@ -2,7 +2,7 @@
 
 Cinder stands for The Code Friend Finder
 
-##Why use our App?
+## Why use our App?
 
 Social Networking site for Coding students and Grads
 Find fellow coders to chat, friend, and work on projects
@@ -12,12 +12,12 @@ You can find thousands of enthusiastic coders and network with them.
 Share your ideas and projects with other coders
 Search through our database and find hundreds of interesting articles.
 
-##Our Motivation
+## Our Motivation
 1. Create a social networking platform
 2. Connect Coders to each other 
 3. Create database and searching engine
 
-##Concept
+## Concept
 Create application that save users information in database, connect them to each other and provide them searching engine so they can look for interesting topics.
 
 
@@ -36,11 +36,11 @@ You can join various discord style chat rooms.
 It will match you with others who share your same interest. 
 
 
-#API’s used
+## API’s used
 Google API
 
 
-##Directions for development
+## Directions for development
  
 We wanted to design a Social Media platform so web developers can…
 
@@ -52,7 +52,7 @@ Provide Mentorship
 
 
 
-##Cinder Profile:
+## Cinder Profile:
 
 Cinder rating: (if someone clicks “ignite” next to your cinder rating that means they had a good working experience with you)
 
@@ -65,5 +65,4 @@ Preferred working environment:(user will state that they like working remotely, 
 Project showcase: (showcase any previous work to better represent your experience/knowledge)
 
 ##Repo & App Links
-https://github.com/BubblyRobot/project2-cinder
-https://project2-cinder.herokuapp.com/
+
